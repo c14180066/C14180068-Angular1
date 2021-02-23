@@ -1,4 +1,18 @@
 <hello name="{{ name }}"></hello>
 <p>
-  Start editing to see some magic happen :)
+	Start editing to see some magic happen :)
 </p>
+
+<br>
+turn: {{user}}
+<br>
+baris: <input [(ngModel)]="a" type="text">
+<br>
+kolom: <input [(ngModel)]="b" type="text">
+<br>
+<button (click)="EventKlik()">Go!</button>
+<div *ngFor="let baris of arr_name">
+	<span *ngFor="let kolom of baris">
+    {{kolom}}
+  </span>
+</div>
