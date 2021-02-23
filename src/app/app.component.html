@@ -3,12 +3,14 @@
 	Start editing to see some magic happen :)
 </p>
 
+<p>User 1 = 0</p>
+<p>User 2 = 1</p>
 <br>
 turn: {{user}}
 <br>
-baris: <input [(ngModel)]="a" type="text">
+baris: <input [(ngModel)]="a" type="text"> 1-5
 <br>
-kolom: <input [(ngModel)]="b" type="text">
+kolom: <input [(ngModel)]="b" type="text"> 1-5
 <br>
 <button (click)="EventKlik()">Go!</button>
 <div *ngFor="let baris of arr_name">
