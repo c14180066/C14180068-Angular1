@@ -322,18 +322,5 @@ export class AppComponent {
     ) {
       alert("Player 2 win!");
     }
-
-    //   for (let i = 0; i < 5; i++) {
-    //     for (let j = 0; j < 5; j++) {
-    //       if (this.arr_name[i][j] == "0") {
-    //         this.counter1 = this.counter1 + 1;
-    //         if(this.arr_name[i][4] == "1" || this.arr_name[i][0]=="1"){
-
-    //         }
-    //       }
-    //     }
-    //     this.counter1 = 0;
-    //     this.counter2 = 0;
-    //   }
   }
 }
