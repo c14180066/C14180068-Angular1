@@ -112,75 +112,75 @@ export class AppComponent {
     ) {
       alert("Player 1 win!");
     } else if (
-      this.arr_name[0][0] == "0" &&
-      this.arr_name[0][1] == "0" &&
-      this.arr_name[0][2] == "0" &&
-      this.arr_name[0][3] == "0"
+      this.arr_name[0][0] == "1" &&
+      this.arr_name[0][1] == "1" &&
+      this.arr_name[0][2] == "1" &&
+      this.arr_name[0][3] == "1"
     ) {
-      alert("Player 1 win!");
+      alert("Player 2 win!");
     } else if (
-      this.arr_name[0][1] == "0" &&
-      this.arr_name[0][2] == "0" &&
-      this.arr_name[0][3] == "0" &&
-      this.arr_name[0][4] == "0"
+      this.arr_name[0][1] == "1" &&
+      this.arr_name[0][2] == "1" &&
+      this.arr_name[0][3] == "1" &&
+      this.arr_name[0][4] == "1"
     ) {
-      alert("Player 1 win!");
+      alert("Player 2 win!");
     } else if (
-      this.arr_name[1][0] == "0" &&
-      this.arr_name[1][1] == "0" &&
-      this.arr_name[1][2] == "0" &&
-      this.arr_name[1][3] == "0"
+      this.arr_name[1][0] == "1" &&
+      this.arr_name[1][1] == "1" &&
+      this.arr_name[1][2] == "1" &&
+      this.arr_name[1][3] == "1"
     ) {
-      alert("Player 1 win!");
+      alert("Player 2 win!");
     } else if (
-      this.arr_name[1][1] == "0" &&
-      this.arr_name[1][2] == "0" &&
-      this.arr_name[1][3] == "0" &&
-      this.arr_name[1][4] == "0"
+      this.arr_name[1][1] == "1" &&
+      this.arr_name[1][2] == "1" &&
+      this.arr_name[1][3] == "1" &&
+      this.arr_name[1][4] == "1"
     ) {
-      alert("Player 1 win!");
+      alert("Player 2 win!");
     } else if (
-      this.arr_name[2][0] == "0" &&
-      this.arr_name[2][1] == "0" &&
-      this.arr_name[2][2] == "0" &&
-      this.arr_name[2][3] == "0"
+      this.arr_name[2][0] == "1" &&
+      this.arr_name[2][1] == "1" &&
+      this.arr_name[2][2] == "1" &&
+      this.arr_name[2][3] == "1"
     ) {
-      alert("Player 1 win!");
+      alert("Player 2 win!");
     } else if (
-      this.arr_name[2][1] == "0" &&
-      this.arr_name[2][2] == "0" &&
-      this.arr_name[2][3] == "0" &&
-      this.arr_name[2][4] == "0"
+      this.arr_name[2][1] == "1" &&
+      this.arr_name[2][2] == "1" &&
+      this.arr_name[2][3] == "1" &&
+      this.arr_name[2][4] == "1"
     ) {
-      alert("Player 1 win!");
+      alert("Player 2 win!");
     } else if (
-      this.arr_name[3][0] == "0" &&
-      this.arr_name[3][1] == "0" &&
-      this.arr_name[3][2] == "0" &&
-      this.arr_name[3][3] == "0"
+      this.arr_name[3][0] == "1" &&
+      this.arr_name[3][1] == "1" &&
+      this.arr_name[3][2] == "1" &&
+      this.arr_name[3][3] == "1"
     ) {
-      alert("Player 1 win!");
+      alert("Player 2 win!");
     } else if (
-      this.arr_name[3][1] == "0" &&
-      this.arr_name[3][2] == "0" &&
-      this.arr_name[3][3] == "0" &&
-      this.arr_name[3][4] == "0"
+      this.arr_name[3][1] == "1" &&
+      this.arr_name[3][2] == "1" &&
+      this.arr_name[3][3] == "1" &&
+      this.arr_name[3][4] == "1"
     ) {
-      alert("Player 1 win!");
+      alert("Player 2 win!");
     } else if (
-      this.arr_name[4][0] == "0" &&
-      this.arr_name[4][1] == "0" &&
-      this.arr_name[4][2] == "0" &&
-      this.arr_name[4][3] == "0"
+      this.arr_name[4][0] == "1" &&
+      this.arr_name[4][1] == "1" &&
+      this.arr_name[4][2] == "1" &&
+      this.arr_name[4][3] == "1"
     ) {
-      alert("Player 1 win!");
+      alert("Player 2 win!");
     } else if (
-      this.arr_name[4][1] == "0" &&
-      this.arr_name[4][2] == "0" &&
-      this.arr_name[4][3] == "0" &&
-      this.arr_name[4][4] == "0"
+      this.arr_name[4][1] == "1" &&
+      this.arr_name[4][2] == "1" &&
+      this.arr_name[4][3] == "1" &&
+      this.arr_name[4][4] == "1"
     ) {
-      alert("Player 1 win!");
+      alert("Player 2 win!");
     }
 
     //   for (let i = 0; i < 5; i++) {
